@@ -5,7 +5,11 @@ line, and enter following command:
 
 java -ea -jar poetic_walks.jar
 
-take these example as a sample session:
+Project source code can be found <a href="https://github.com/BardiaBoghrati/Poetic_Walks">here</a>.
+
+YouTube demo can be found <a href="https://youtu.be/K8Lu3_uX8bo">here</a>.
+
+Example sessions:
 
 Session 1:
 
